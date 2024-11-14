@@ -23,7 +23,7 @@ export default function ImgMediaCard() {
         component="video"
         alt="green iguana"
         height="170"
-        src="./src/components/videos/NewIntro.mp4"
+        src="./videos/NewIntro.mp4"
         controls
       />
       <CardContent>
